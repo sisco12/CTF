@@ -7,7 +7,7 @@ picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699}.
 
 
 ## 2-Logon
->Check the cookies of the admin and change to True.   
+>Check the cookies of the admin.     
 picoCTF{th3_c0nsp1r4cy_l1v3s_6edb3f5f}
 
 
