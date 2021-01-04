@@ -1,7 +1,7 @@
 # PicoCTF.org
 Capture the flag solution
 
-##1-Insp3ct0r
+## 1-Insp3ct0r
 open source code of this page. Than I found 1/3 flags.
 Click on source you will find the 2/3 part of the flag  on mycss.css and the 3/3 part in myjs.js file
 
