@@ -1,5 +1,5 @@
 # PicoCTF.org
-Capture the flag solution
+Solutions for Capture the flag challenges
 
 ## 1-Insp3ct0r
 >open source code of this page and check all the files.  
